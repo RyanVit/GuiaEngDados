@@ -5,8 +5,6 @@ Um repositório completo para quem deseja aprender e se aprofundar em Engenharia
 ---
 
 ## 📖 Índice
-
-## 📖 Índice
 1. [📌 Introdução](#-introdução)  
 2. [🌎 Comunidade](#-comunidade)  
 3. [🛤️ Roadmaps](#-roadmaps)  
