@@ -1,99 +1,96 @@
-# ManualDev
+# 📌 Guia de Engenharia de Dados
 
-# 📘 Guia Completo de Engenharia de Dados
-
-Bem-vindo ao **Guia Completo de Engenharia de Dados**! 🚀
-Este repositório tem como objetivo reunir os melhores recursos para quem deseja entrar ou se aprofundar na área de Engenharia de Dados. Aqui você encontrará links para cursos, artigos, livros, ferramentas, certificações, roadmaps, referências de especialistas e muito mais!
-
-## 📑 Sumário
-
-- [Introdução](#introducao)
-- [Primeiros Passos](#primeiros-passos)
-- [Roadmap do Engenheiro de Dados](#roadmap-do-engenheiro-de-dados)
-- [Linguagens e Ferramentas](#linguagens-e-ferramentas)
-- [Teorias e Conceitos Fundamentais](#teorias-e-conceitos-fundamentais)
-- [Armazenamento e Bancos de Dados](#armazenamento-e-bancos-de-dados)
-- [ETL e Pipelines de Dados](#etl-e-pipelines-de-dados)
-- [Data Warehouses e Data Lakes](#data-warehouses-e-data-lakes)
-- [Big Data e Processamento Distribuído](#big-data-e-processamento-distribuido)
-- [Streaming de Dados](#streaming-de-dados)
-- [Segurança e Governança de Dados](#seguranca-e-governanca-de-dados)
-- [Certificações](#certificacoes)
-- [Referências e Especialistas](#referencias-e-especialistas)
-- [Empresas e Oportunidades](#empresas-e-oportunidades)
+Um repositório completo para quem deseja aprender e se aprofundar em Engenharia de Dados, com recursos gratuitos e referências da área.
 
 ---
 
-## 📌 Introdução <a name="introducao"></a>
-
-A Engenharia de Dados é uma área essencial para o mundo da tecnologia, permitindo a construção de pipelines de dados escaláveis e confiáveis. Os engenheiros de dados trabalham com **coleta, transformação, armazenamento e análise** de dados, garantindo que a informação esteja sempre disponível para análise e tomada de decisão.
-
-👉 Para entender melhor o papel de um engenheiro de dados, confira:
-- [O que faz um Engenheiro de Dados?](https://medium.com/@engenheirodedados)
-- [Guia completo sobre Engenharia de Dados](https://towardsdatascience.com/data-engineering-guide)
-
----
-
-## 🚀 Primeiros Passos <a name="primeiros-passos"></a>
-
-Se você está começando agora na Engenharia de Dados, aqui estão alguns recursos para iniciar:
-
-### 📚 Livros
-- [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
-- [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-- [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
-
-### 🎥 Cursos e Tutoriais
-- [Curso de Engenharia de Dados - Data Science Academy](https://www.datascienceacademy.com.br/)
-- [Google Cloud Data Engineering Course](https://www.coursera.org/professional-certificates/gcp-data-engineer)
-- [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+## 📖 Índice
+1. [📌 Introdução](#-introdução)  
+2. [🌎 Comunidade](#-comunidade)  
+3. [🛤️ Roadmaps](#-roadmaps)  
+4. [🎥 Vídeos e Cursos Gratuitos](#-vídeos-e-cursos-gratuitos)  
+5. [📚 Livros Recomendados](#-livros-recomendados)  
+6. [📢 Influenciadores e Criadores de Conteúdo](#-influenciadores-e-criadores-de-conteúdo)  
+7. [🔧 Ferramentas e Tecnologias](#-ferramentas-e-tecnologias)  
+8. [🔍 Sites para Praticar](#-sites-para-praticar)  
+9. [📑 Artigos e Blogs](#-artigos-e-blogs)  
+10. [📜 Certificações e Materiais de Estudo](#-certificações-e-materiais-de-estudo)  
+11. [🗣️ Inglês para Engenharia de Dados](#-inglês-para-engenharia-de-dados)  
 
 ---
 
-## 🛤️ Roadmap do Engenheiro de Dados <a name="roadmap-do-engenheiro-de-dados"></a>
+## 📌 Introdução
+Este guia foi criado para reunir os melhores recursos gratuitos sobre Engenharia de Dados. Aqui você encontrará desde materiais para iniciantes até conteúdo avançado sobre ferramentas, arquiteturas e práticas da área.
 
-Aqui estão algumas referências de roadmap para se tornar um engenheiro de dados:
-- [Roadmap de Engenharia de Dados - DataTalksClub](https://github.com/datastacktv/data-engineer-roadmap)
-- [Data Engineering Roadmap](https://roadmap.sh/data-engineer)
-- [A Day in the Life of a Data Engineer](https://www.datacamp.com/blog/a-day-in-the-life-of-a-data-engineer)
+Se você deseja contribuir, fique à vontade para sugerir novos links!
 
 ---
 
-## 📖 Teorias e Conceitos Fundamentais <a name="teorias-e-conceitos-fundamentais"></a>
-
-### 🔹 Modelagem de Dados
-- [Data Modeling Guide](https://www.oreilly.com/library/view/data-modeling/9780596150300/)
-- [Database Design - Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
-
-### 🔹 Normalização e Denormalização
-- [Normalization - IBM](https://www.ibm.com/docs/en/db2/11.5?topic=design-normalization)
-- [Denormalization in Databases](https://towardsdatascience.com/denormalization-in-databases-7900277b8b72)
-
-### 🔹 Arquiteturas de Dados
-- [Lambda vs. Kappa Architecture](https://towardsdatascience.com/batch-vs-streaming-processing-1f62c7eb33a)
-- [Data Mesh Overview](https://martinfowler.com/articles/data-mesh-principles.html)
+## 🌎 Comunidade
+Participe de grupos e fóruns para interagir com outros profissionais da área:
+- [Data Engineering Subreddit](https://www.reddit.com/r/dataengineering/)
+- [Kaggle Discussions](https://www.kaggle.com/discussions)
+- [Data Engineering Slack](https://dataeng.slack.com/)
+- [Databricks Community](https://community.databricks.com/)
+- [Engenharia de Dados Brasil - LinkedIn](https://www.linkedin.com/groups/)
 
 ---
 
-## 🎓 Certificações <a name="certificacoes"></a>
-
-Certificações que podem impulsionar sua carreira:
-- [Google Cloud Professional Data Engineer](https://cloud.google.com/certification/data-engineer)
-- [AWS Certified Data Analytics](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
-- [Databricks Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)
-- [Microsoft Azure Data Engineer](https://learn.microsoft.com/en-us/certifications/exams/dp-203/)
+## 🛤️ Roadmaps
+Guias visuais sobre o caminho a seguir na Engenharia de Dados:
+- [Data Engineer Roadmap - roadmap.sh](https://roadmap.sh/data-engineer)
+- [The Modern Data Stack](https://moderndatastack.xyz/)
+- [AWS Data Engineering Path](https://aws.amazon.com/training/learning-paths/data-analytics/)
+- [Databricks Learning Path](https://www.databricks.com/learn/training)
+- [Google Cloud Data Engineering Path](https://cloud.google.com/training/data-analytics/)
 
 ---
 
-## 📌 Referências e Especialistas <a name="referencias-e-especialistas"></a>
+## 🎥 Vídeos e Cursos Gratuitos
+Aprenda com conteúdos gratuitos e de qualidade:
+- [Data Engineering Zoomcamp - DataTalksClub](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- [Engenharia de Dados na Prática - YouTube](https://www.youtube.com/playlist?list=PL5aY_NrL1rjkQHHxwSABWgupU49LjU-iS)
+- [Google Cloud Data Engineering - Coursera (Gratuito)](https://www.coursera.org/specializations/gcp-data-machine-learning)
+- [Fundamentos de Big Data - Udacity](https://www.udacity.com/course/intro-to-big-data--ud617)
+- [Introduction to Data Engineering - DataCamp](https://www.datacamp.com/courses/introduction-to-data-engineering)
 
-### 🔥 Especialistas da área
-- [Joe Reis (Autor de Fundamentals of Data Engineering)](https://www.linkedin.com/in/josephreis/)
-- [Andreas Kretz (Data Engineering YouTube)](https://www.youtube.com/c/AndreasKretz)
-- [Zhamak Dehghani (Criadora do conceito de Data Mesh)](https://martinfowler.com/articles/data-mesh-principles.html)
+---
 
-### 📢 Canais e Blogs
-- [Data Engineering Weekly](https://www.dataengineeringweekly.com/)
-- [Kensu Blog](https://www.kensu.io/blog)
+## 📚 Livros Recomendados
+Leituras essenciais para se aprofundar:
+- "The Data Engineering Cookbook" - Andreas Kretz [(Download)](https://github.com/andkret/Cookbook)
+- "Designing Data-Intensive Applications" - Martin Kleppmann [(Amazon)](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- "Fundamentals of Data Engineering" - Joe Reis e Matt Housley [(Amazon)](https://www.amazon.com/Fundamentals-Data-Engineering-Reliable-Resilient/dp/1098108302)
+- "Data Pipelines Pocket Reference" - James Densmore [(Amazon)](https://www.amazon.com/Data-Pipelines-Pocket-Reference-Processing/dp/1492087848)
+- "The Big Data Handbook" - Various Authors [(Download)](https://bigdatahandbook.com/)
 
-Este repositório será atualizado constantemente com novos recursos! Contribuições são bem-vindas. 😊
+---
+
+## 📜 Certificações e Materiais de Estudo
+Materiais para estudar e se preparar para certificações:
+
+### **AWS:**
+- [AWS Certified Data Analytics – Specialty](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
+- [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+- [Curso Preparatório - Udemy](https://www.udemy.com/course/aws-certified-data-analytics-specialty/)
+- [Guia de Estudos Oficial - AWS](https://d1.awsstatic.com/training-and-certification/docs-data-analytics-specialty/AWS-Certified-Data-Analytics-Specialty_Exam-Guide.pdf)
+
+### **Microsoft Azure:**
+- [Azure Data Engineer Associate (DP-203)](https://learn.microsoft.com/en-us/certifications/azure-data-engineer/)
+- [Curso Oficial Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/data-engineer/)
+- [Curso Preparatório - Udemy](https://www.udemy.com/course/exam-dp-203-data-engineering-on-microsoft-azure/)
+- [Simulados Gratuitos](https://www.examtopics.com/exams/microsoft/dp-203/)
+
+### **Google Cloud:**
+- [Professional Data Engineer](https://cloud.google.com/certification/data-engineer)
+- [Treinamento Oficial Google Cloud](https://cloud.google.com/training/)
+- [Cursos Coursera Google Cloud](https://www.coursera.org/professional-certificates/google-cloud-data-engineer)
+
+### **Databricks:**
+- [Databricks Certified Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)
+- [Treinamentos Gratuitos](https://www.databricks.com/learn/training)
+- [Exames de Prática](https://community.databricks.com/)
+
+---
+
+Contribuições são bem-vindas! Se tiver um link interessante, abra um PR! 🚀
