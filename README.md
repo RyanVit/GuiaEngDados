@@ -5,6 +5,8 @@ Um repositório completo para quem deseja aprender e se aprofundar em Engenharia
 ---
 
 ## 📖 Índice
+
+## 📖 Índice
 1. [📌 Introdução](#-introdução)  
 2. [🌎 Comunidade](#-comunidade)  
 3. [🛤️ Roadmaps](#-roadmaps)  
@@ -12,10 +14,13 @@ Um repositório completo para quem deseja aprender e se aprofundar em Engenharia
 5. [📚 Livros Recomendados](#-livros-recomendados)  
 6. [📢 Influenciadores e Criadores de Conteúdo](#-influenciadores-e-criadores-de-conteúdo)  
 7. [🔧 Ferramentas e Tecnologias](#-ferramentas-e-tecnologias)  
-8. [🔍 Sites para Praticar](#-sites-para-praticar)  
-9. [📑 Artigos e Blogs](#-artigos-e-blogs)  
-10. [📜 Certificações e Materiais de Estudo](#-certificações-e-materiais-de-estudo)  
-11. [🗣️ Inglês para Engenharia de Dados](#-inglês-para-engenharia-de-dados)  
+8. [🖥️ Linguagens de Programação](#-linguagens-de-programação)  
+9. [🗄️ Banco de Dados e SQL](#-banco-de-dados-e-sql)  
+10. [🔍 Sites para Praticar](#-sites-para-praticar)  
+11. [📑 Artigos e Blogs](#-artigos-e-blogs)  
+12. [🔗 Links Úteis](#-links-úteis)  
+13. [🗣️ Inglês para Engenharia de Dados](#-inglês-para-engenharia-de-dados)  
+14. [🎓 Certificações e Materiais de Estudo](#-certificações-e-materiais-de-estudo)  
 
 ---
 
@@ -63,6 +68,44 @@ Leituras essenciais para se aprofundar:
 - "Fundamentals of Data Engineering" - Joe Reis e Matt Housley [(Amazon)](https://www.amazon.com/Fundamentals-Data-Engineering-Reliable-Resilient/dp/1098108302)
 - "Data Pipelines Pocket Reference" - James Densmore [(Amazon)](https://www.amazon.com/Data-Pipelines-Pocket-Reference-Processing/dp/1492087848)
 - "The Big Data Handbook" - Various Authors [(Download)](https://bigdatahandbook.com/)
+
+---
+
+## 🔧 Ferramentas e Tecnologias
+Principais tecnologias usadas na Engenharia de Dados:
+### **Plataformas e Computação em Nuvem:**
+- [AWS Data Services](https://aws.amazon.com/data-analytics/)
+- [Google Cloud Platform (GCP)](https://cloud.google.com/)
+- [Microsoft Azure Data Services](https://azure.microsoft.com/en-us/solutions/data-analytics/)
+- [Databricks](https://databricks.com/)
+
+### **Frameworks e Processamento de Dados:**
+- [Apache Spark](https://spark.apache.org/)
+- [Apache Hadoop](https://hadoop.apache.org/)
+- [Apache Kafka](https://kafka.apache.org/)
+- [Airflow](https://airflow.apache.org/)
+- [dbt (Data Build Tool)](https://www.getdbt.com/)
+
+---
+
+
+## 🖥️ Linguagens de Programação
+Linguagens essenciais para Engenharia de Dados:
+- [Python](https://www.python.org/)
+- [Java](https://www.java.com/)
+- [Scala](https://www.scala-lang.org/)
+- [Go](https://golang.org/)
+- [Rust](https://www.rust-lang.org/)
+
+---
+
+## 🗄️ Banco de Dados e SQL
+Ferramentas essenciais para armazenamento e manipulação de dados:
+- [PostgreSQL](https://www.postgresql.org/)
+- [MySQL](https://www.mysql.com/)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/)
+- [Snowflake](https://www.snowflake.com/)
+- [BigQuery](https://cloud.google.com/bigquery/)
 
 ---
 
